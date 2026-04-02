@@ -1,15 +1,15 @@
-##Ecommerce Sales Analysis (Excel Dashboard)
-#Project Overview:
+### Ecommerce Sales Analysis (Excel Dashboard)
+## Project Overview:  
 This project analyzes ecommerce sales data using Microsoft Excel.
 
-Tools Used :
-Microsoft Excel,
-Pivot Tables,
+## Tools Used:  
+: Microsoft Excel
+Pivot Tables
 Charts,
 Slicers,
 KPI Dashboard
 
-Features:
+## Features:  
 Sales Analysis,
 Profit Analysis,
 Category Performance,
