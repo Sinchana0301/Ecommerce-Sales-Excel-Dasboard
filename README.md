@@ -38,6 +38,6 @@ The dashboard provides interactive insights using slicers, KPI cards, and charts
 - Top 10 products drive major revenue
   
 ## Author  
-Sinchana B
-## GitHub: 
-## Linkedin: https://www.linkedin.com/in/sinchana-gowda-
+Sinchana B  
+GitHub: https://github.com/Sinchana0301  
+Linkedin: https://www.linkedin.com/in/sinchana-gowda-  
