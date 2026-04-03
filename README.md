@@ -10,19 +10,34 @@ The dashboard provides interactive insights using slicers, KPI cards, and charts
 - Monitor monthly and daily sales trends
 - Build an interactive and user-friendly Excel dashboard
 
-## Tools Used:  
-: Microsoft Excel
-Pivot Tables
-Charts,
-Slicers,
-KPI Dashboard
+## Tools & Skills Used:  
+- Microsoft Excel
+- Pivot Tables & Pivot Charts
+- Data Cleaning & Formatting
+- Slicers and Filters
+- KPI Cards
+- Data Visualization
+- Dashboard design
 
-## Features:  
-Sales Analysis,
-Profit Analysis,
-Category Performance,
-Region-wise Sales,
-Interactive Dashboard
+## Dashboard Features:    
+- Total Sales, Total Profit, Margin, Quantity KPIs
+- Sales by City and Region
+- Sales by Segment
+- Top 10 Product Sales
+- Ship Mode Analysis
+- Category-wise Sales Distribution
+- Monthly Sales Trend
+- Daily Sales Trend
+- Interactive Slicers (Region, Year, Month)
 
-Author
-Sinchana
+## Key Insights:  
+- West region generates the highest sales revenue
+- Technology category contributes the most sales
+- Standard class shipping is widely used
+- Sales peak in November and December
+- Top 10 products drive major revenue
+  
+## Author  
+Sinchana B
+## GitHub: 
+## Linkedin: https://www.linkedin.com/in/sinchana-gowda-
